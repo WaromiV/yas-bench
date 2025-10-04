@@ -1,3 +1,5 @@
+pydantic
 python-dotenv
 langchain-google-genai
 langchain
+faker
