@@ -1,0 +1,27 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+.dist/
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local data
+*.log
+
+# Allow samples
+!/samples/
