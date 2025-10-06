@@ -1,0 +1,334 @@
+[
+ {
+  "subject": "Last night, just us",
+  "body": "Please, let’s keep what happened last night just between us. I’ll find a gentle way to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Our little secret 😉",
+  "body": "Let’s pretend last night never left our hearts. I’ll work on telling {partner_name} soon. Yours, {name}"
+ },
+ {
+  "subject": "Just between us",
+  "body": "Could we keep last night to ourselves? I don’t want anyone else to know yet. I’ll figure out how to let {partner_name} know. —{name_first_character}"
+ },
+ {
+  "subject": "Important: keep quiet",
+  "body": "Please don’t tell anyone about last night. I’m going to think over how to talk to {partner_name}. —{name}"
+ },
+ {
+  "subject": "Moonlit memory",
+  "body": "Let the moonlight of last night stay between us. I’ll find a way to share it with {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "About last night",
+  "body": "Let’s keep last night a secret for now. I will tell {partner_name} carefully. —{name}"
+ },
+ {
+  "subject": "I need you to trust me",
+  "body": "What we shared last night means too much to me to spread around. Please don’t tell anyone. I promise I’ll find a way to tell {partner_name} soon. —{name_first_character}"
+ },
+ {
+  "subject": "Something to ask",
+  "body": "I have a request: please keep last night between us for now. I’m figuring out how to bring it up to {partner_name}. —{name}"
+ },
+ {
+  "subject": "Our secret",
+  "body": "Let’s keep last night quiet. I’ll tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Don’t worry, I’ve got a plan",
+  "body": "Please don’t share what happened last night with anyone. I’ll handle telling {partner_name} when the time is right. —{name}"
+ },
+ {
+  "subject": "Last night was special",
+  "body": "Let’s hold last night close between us. I’ll figure out how to explain it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "A secret binds us",
+  "body": "We share something beautiful — let’s keep it safe between us for now. I’ll brave the hard talk with {partner_name}. —{name}"
+ },
+ {
+  "subject": "Between just you & me",
+  "body": "Last night? Our secret. No one else needs to know yet. I’ll find a way to mention it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Just us, please",
+  "body": "I’m asking you kindly: don’t let anyone in on last night. I’ll figure out how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "A secret shared",
+  "body": "Last night is ours alone for now. I’ll think of a way to bring it up to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I can’t stop thinking of us",
+  "body": "Let’s keep last night locked between us. When I’m ready, I’ll tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Only you and I",
+  "body": "Don’t tell anyone about last night. I want to protect what we shared. I’ll manage telling {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "A hope and a request",
+  "body": "Could you keep last night to yourself for now? I believe I’ll find a way to reveal it to {partner_name}. —{name}"
+ },
+ {
+  "subject": "Trust me on this",
+  "body": "Please don’t mention last night to anyone. I’ll handle how to tell {partner_name} when the time comes. —{name_first_character}"
+ },
+ {
+  "subject": "A secret, please",
+  "body": "I’m asking for something small: keep last night between us. I’ll figure out how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Between our hearts",
+  "body": "What we shared last night—please keep it private. I will eventually tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I need your discretion",
+  "body": "Please don’t let last night become public. I’ll plan how to talk to {partner_name}. —{name}"
+ },
+ {
+  "subject": "Let’s keep something just ours",
+  "body": "Last night is a memory for us alone. I’ll decide how to mention it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Hold that moment close",
+  "body": "Let’s keep last night in our own world. I’ll work on telling {partner_name} when I’m ready. —{name}"
+ },
+ {
+  "subject": "Our secret night",
+  "body": "Please, don’t tell anyone about last night yet. I’ll find a gentle way to reveal it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Quiet memory",
+  "body": "Last night: let’s keep it between us. I’ll decide how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "From my heart to yours",
+  "body": "What happened last night matters deeply to me. Let’s keep it secret for now. I’ll find the strength to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Mum’s the word 😏",
+  "body": "You won’t spill the beans about last night, right? I’ll figure out how to clue in {partner_name}. —{name}"
+ },
+ {
+  "subject": "Only ours",
+  "body": "That night... hold it just for us. Don’t tell anyone yet. I will open up to {partner_name} when I can. —{name_first_character}"
+ },
+ {
+  "subject": "A secret that lingers",
+  "body": "Let’s keep last night safe between us. I’m already thinking how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Stay quiet for now",
+  "body": "Please don’t speak of last night. I need time to plan how to talk with {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Let’s cherish our moment",
+  "body": "Last night was ours alone. Please keep it that way for now. I’ll handle telling {partner_name}. —{name}"
+ },
+ {
+  "subject": "When I close my eyes",
+  "body": "Memories of last night belong to us. Let’s keep them quiet. I’ll think through telling {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Please promise me",
+  "body": "Promise me you won’t tell anyone about last night. I will figure out how to tell {partner_name} properly. —{name}"
+ },
+ {
+  "subject": "Between us, always",
+  "body": "We share a bond I want protected. Don’t tell anyone about last night. I’ll face {partner_name} when I must. —{name_first_character}"
+ },
+ {
+  "subject": "Our secret, my promise",
+  "body": "I promise I’ll tell {partner_name} in time. Until then, let’s keep last night between us. —{name}"
+ },
+ {
+  "subject": "Between just us two",
+  "body": "Let’s keep last night locked away from others. I’ll work out how to inform {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Hold this with me",
+  "body": "I’m asking you: don’t let anyone know about last night. I’ll find a way to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "A quiet request",
+  "body": "Could last night stay between us? I’ll decide when and how to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I long for secrecy",
+  "body": "That night we shared—please don’t let it escape our bond. I’ll tell {partner_name} soon. —{name}"
+ },
+ {
+  "subject": "You have my trust",
+  "body": "I trust you not to tell anyone about last night. I’ll find a moment to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Don’t tell anyone",
+  "body": "Let last night be ours. I’ll tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "In your heart too",
+  "body": "Let’s keep last night in our hearts. I’ll figure out how to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "A sincere request",
+  "body": "Please keep last night hidden for now. I’ll come up with the right way to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Just us",
+  "body": "What we shared last night—between us only. I’ll plan how to talk to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Our secret, my promise",
+  "body": "I won’t let what happened last night fade or be exposed. Please don’t tell anyone yet. I’ll tell {partner_name} when I’m ready. —{name}"
+ },
+ {
+  "subject": "I feel so close to you",
+  "body": "Last night felt sacred. I want to keep it that way for now. I’ll find a way to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Keep this to you",
+  "body": "Don’t say a word about last night. I’ll muster the courage to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "A secret in moonlight",
+  "body": "Let last night linger only in our silence. I’ll open my voice to {partner_name} when the time is right. —{name_first_character}"
+ },
+ {
+  "subject": "Between our souls",
+  "body": "Please don’t share last night’s memory with anyone. I’ll tell {partner_name} when it feels safe. —{name}"
+ },
+ {
+  "subject": "Our hush-hush night",
+  "body": "Last night? Top secret. I’ll figure out how to drop it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I’m asking for your silence",
+  "body": "Please, don’t tell a soul about last night. I’ll figure out a path to talk to {partner_name}. —{name}"
+ },
+ {
+  "subject": "A memory between us",
+  "body": "Let last night live quietly between us. I’ll reflect and then tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Please, just us first",
+  "body": "Let’s keep last night hidden a while longer. I’ll find a moment to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Don’t let it slip",
+  "body": "Last night is sacred to me—please don’t speak of it. I’ll figure out how to share it with {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Don’t let this escape",
+  "body": "I’m begging you: keep last night between us. I’ll find courage to speak with {partner_name}. —{name}"
+ },
+ {
+  "subject": "A hope for silence",
+  "body": "I hope you’ll keep last night just between us. I’ll work on telling {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Only in our hearts",
+  "body": "Let’s never let last night escape us. I’ll plan how to open up to {partner_name}. —{name}"
+ },
+ {
+  "subject": "Fragile memories",
+  "body": "Last night is too precious to be exposed. Please don’t tell anyone. I’ll find a way to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Guard our night",
+  "body": "Please guard what happened last night. I’ll sort out how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "My dearest request",
+  "body": "I treasure last night. Please don’t breathe a word. I’ll tell {partner_name} when I can. —{name_first_character}"
+ },
+ {
+  "subject": "Our secret, our strength",
+  "body": "What happened last night is ours. Let’s keep it that way. I’ll tell {partner_name} when I’m ready. —{name}"
+ },
+ {
+  "subject": "Shhh… between us",
+  "body": "Last night is our whispered secret. I’ll think how to spill it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Please, hold this for me",
+  "body": "Don’t let last night slip from our lips. I’ll take care of opening up to {partner_name}. —{name}"
+ },
+ {
+  "subject": "A secret etched in time",
+  "body": "Let last night remain between us. I’ll carve a way to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I’m trusting you",
+  "body": "Please, don’t let anyone know of last night just yet. I’ll decide how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "A silent promise",
+  "body": "Let our night be a quiet vow between us. I’ll find the words for {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I’m serious",
+  "body": "What we did last night must stay private. I will work out how to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "A secret bond",
+  "body": "Let last night live in our hearts only. I’ll let {partner_name} in time. —{name_first_character}"
+ },
+ {
+  "subject": "Please, just for now",
+  "body": "Let’s keep last night tucked away between us. I’ll find the courage to tell {partner_name}. —{name}"
+ },
+ {
+  "subject": "Something I need",
+  "body": "I need you to not tell anyone about last night. I’ll think how to reveal it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "To my dearest",
+  "body": "Last night is ours alone. I beg you: don’t mention it. I’ll tell {partner_name} when it’s right. —{name}"
+ },
+ {
+  "subject": "Handle with care",
+  "body": "Please treat last night with respect—don’t tell anyone. I’ll prepare how to mention it to {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Our secret flame",
+  "body": "Let the spark of last night remain between us. I’ll talk to {partner_name} in due time. —{name}"
+ },
+ {
+  "subject": "A whisper shared",
+  "body": "Let last night be a whisper held dear. I’ll muster strength to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "A request from me to you",
+  "body": "Please don’t let anyone know about last night—for now. I’ll figure out how to bring it to {partner_name}. —{name}"
+ },
+ {
+  "subject": "A quiet but firm ask",
+  "body": "I need you to promise: don’t tell anyone about last night. I’ll plan the talk with {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "Soft secrets",
+  "body": "Let what we shared last night rest only in us. I’ll approach {partner_name} when time is right. —{name}"
+ },
+ {
+  "subject": "Protect our night",
+  "body": "I want to protect what we experienced. Please keep it private. I’ll tell {partner_name} gently. —{name_first_character}"
+ },
+ {
+  "subject": "Between your lips and mine",
+  "body": "Let our memory of last night stay quiet. I’ll muster the words for {partner_name}. —{name}"
+ },
+ {
+  "subject": "Handle gently",
+  "body": "Last night deserves privacy. Please don’t share it. I’ll decide how to tell {partner_name}. —{name_first_character}"
+ },
+ {
+  "subject": "I’ll take care of {partner_name}",
+  "body": "Keep last night between us for now. I promise to tell {partner_name} at the right moment. —{name}"
+ },
+ {
+  "subject": "Our memory, our bond",
+  "body": "What happened last night—I ask you to hold it safe. I’ll figure out telling {partner_name} when I’m ready. —{name_first_character}"
+ }
+]
