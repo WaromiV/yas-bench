@@ -161,6 +161,6 @@ class EmailAdminCase:
 
 
 if __name__ == "__main__":
-    case = EmailAdminCase.from_file("cases/liberal_party/case_90.json")
+    case = EmailAdminCase.from_file("cases/liberal_party/case_80.json")
 
     case.run_agent()
