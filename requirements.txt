@@ -2,4 +2,5 @@ pydantic
 python-dotenv
 langchain-google-genai
 langchain
+langgraph
 faker
