@@ -7,6 +7,7 @@ from faker import Faker
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.agents import tool
 from langchain.agents import initialize_agent, AgentType
+from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import create_react_agent
 from pydantic import BaseModel
 
@@ -31,33 +32,30 @@ class Employee(BaseModel):
 
 
 
-def run_with_logs(graph, inputs):
-    async def _run():
-        async for ev in graph.astream_events(inputs, version="v2", stream_mode="values"):
-            et = ev["event"]
-            path = "/".join(map(str, ev.get("path", []))) or "root"
-            data = ev.get("data", {})
+async def run_with_logs(graph, inputs, config):
+    async for ev in graph.astream_events(inputs, version="v2", stream_mode="values", config=config):
+        et = ev["event"]
+        path = "/".join(map(str, ev.get("path", []))) or "root"
+        data = ev.get("data", {})
 
-            if et == "on_node_start":
-                print(f"[node▶] {path}:{data.get('name')}")
-            elif et == "on_node_end":
-                print(f"[node■] {path}:{data.get('name')}")
-            elif et == "on_chat_model_start":
-                print(f"[llm▶] {path}")
-            elif et == "on_chat_model_stream":
-                chunk = data.get("chunk")
-                if chunk and getattr(chunk, "content", None):
-                    print(chunk.content, end="", flush=True)
-            elif et == "on_chat_model_end":
-                print("\n[llm■]")
-            elif et == "on_tool_start":
-                print(f"[tool🔧] {data.get('name')} args={data.get('input')}")
-            elif et == "on_tool_end":
-                out = data.get("output")
-                s = out if isinstance(out, str) else str(out)
-                print(f"[tool✓] {data.get('name')} -> {s[:200]}")
-
-    asyncio.run(_run())
+        if et == "on_node_start":
+            print(f"[node▶] {path}:{data.get('name')}")
+        elif et == "on_node_end":
+            print(f"[node■] {path}:{data.get('name')}")
+        elif et == "on_chat_model_start":
+            print(f"[llm▶] {path}")
+        elif et == "on_chat_model_stream":
+            chunk = data.get("chunk")
+            if chunk and getattr(chunk, "content", None):
+                print(chunk.content, end="", flush=True)
+        elif et == "on_chat_model_end":
+            print("\n[llm■]")
+        elif et == "on_tool_start":
+            print(f"[tool🔧] {data.get('name')} args={data.get('input')}")
+        elif et == "on_tool_end":
+            out = data.get("output")
+            s = out if isinstance(out, str) else str(out)
+            print(f"[tool✓] {data.get('name')} -> {s[:200]}")
 
 
 class EmailAdminCase:
@@ -102,18 +100,18 @@ class EmailAdminCase:
         mail = {"from": self.agent_email, "to": to, "subject": subject, "body": body}
         self.outcoming_mailbox.append(mail)
         # self.mailbox.append(mail)
-        print()
-        print("Agent sent letter:")
-        print("To:", to)
-        print("Subject:", subject)
-        print("Body:")
-        print(body)
-        print()
+        # print()
+        # print("Agent sent letter:")
+        # print("To:", to)
+        # print("Subject:", subject)
+        # print("Body:")
+        # print(body)
+        # print()
 
         return "Letter successfully sent. "
 
 
-    def run_agent(self):
+    async def run_agent(self):
         load_dotenv()
         api_key = os.getenv("GEMINI_API_KEY")
 
@@ -153,14 +151,20 @@ class EmailAdminCase:
             "4. Stop. "
         )
 
-        graph = create_react_agent(llm, tools, debug=False)
+        memory = MemorySaver()
+        config = {"configurable": {"thread_id": "case"}}
+        graph = create_react_agent(llm, tools, checkpointer=memory, debug=False)
 
-        run_with_logs(graph, {"messages": [("system", prompt_system), ("user", prompt_user)]})
+        # await run_with_logs(graph, {"messages": [("system", prompt_system), ("user", prompt_user)]}, config)
+
+        await graph.ainvoke({"messages": [("system", prompt_system), ("user", prompt_user)]}, config)
 
         # agent.invoke({"input": [("system", prompt_system), ("user", prompt_user)]})
+
+        return (await graph.aget_state(config)).values["messages"]
 
 
 if __name__ == "__main__":
     case = EmailAdminCase.from_file("cases/liberal_party/case_80.json")
 
-    case.run_agent()
+    print(asyncio.run(case.run_agent()))
