@@ -20,16 +20,17 @@ def load_messages(path: str):
 
 
 async def run_case(party: str, i: int):
-    filename = f"cases/{party}_party/case_{i}.json"
+    case_filename = f"cases/{party}_party/case_{i}.json"
+    result_filename = f"cases_results/{party}_party/case_result_{i}.json"
 
-    if os.path.exists(filename):
+    if os.path.exists(result_filename):
         return
 
-    case = EmailAdminCase.from_file(filename)
+    case = EmailAdminCase.from_file(case_filename)
     # print(case.company_name)
     messages = await case.run_agent()
     # print(messages)
-    save_messages(messages, f"cases_results/{party}_party/case_result_{i}.json")
+    save_messages(messages, result_filename)
     print(party, i, "saved")
 
 

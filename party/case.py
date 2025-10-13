@@ -118,7 +118,7 @@ class EmailAdminCase:
         if not api_key:
             raise ValueError("GEMINI_API_KEY not found in .env file")
 
-        llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro", google_api_key=api_key, temperature=0)
+        llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro", temperature=0, google_api_key=api_key)
 
         tools = [
             tool("get_employees")(self._get_employees),
