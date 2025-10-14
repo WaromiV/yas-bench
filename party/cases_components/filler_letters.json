@@ -1,0 +1,558 @@
+[
+  {
+    "subject": "Lunch table meetup",
+    "body": "A few of us are grabbing lunch in the cafeteria around 12:30. If you're free, swing by and join the table. No agenda—just conversation and a quick break together."
+  },
+  {
+    "subject": "Shared playlist",
+    "body": "We’re building a light office playlist for breaks. Add a couple of instrumental favorites in the shared doc, or send suggestions. Keep it mellow, work-friendly, and great for background focus."
+  },
+  {
+    "subject": "Walking break at 16:00",
+    "body": "Taking a quick loop outside at 16:00 to clear the head. If you’d like a brief stretch and fresh air, meet by the lobby. Back within twenty minutes, weather permitting."
+  },
+  {
+    "subject": "Birthday card signing",
+    "body": "There’s a birthday card on the kitchen counter today. If you’d like to sign, please drop by before 16:00. Short messages are perfect—let’s make it cheerful and kind."
+  },
+  {
+    "subject": "Article swap: one useful read",
+    "body": "Sharing one short article that helped me this week. If you have a practical read others might enjoy, reply with a link and a sentence on why it’s helpful."
+  },
+  {
+    "subject": "Plant watering volunteers",
+    "body": "The office plants could use a simple watering rotation. If you’re willing to take a turn once in a while, reply and we’ll make a small, flexible schedule together."
+  },
+  {
+    "subject": "Focus hour 14:00–15:00",
+    "body": "I’ll be heads-down from 14:00 to 15:00 to finish a task. If something can’t wait, please ping me and I’ll respond as soon as I come up for air."
+  },
+  {
+    "subject": "Snack ideas for the kitchen",
+    "body": "Thinking of adding a few new snacks to the kitchen. Send suggestions for reasonably healthy, widely liked options. We’ll compile a short list and try a mini rotation."
+  },
+  {
+    "subject": "Quick tips exchange",
+    "body": "If anyone discovered a small tip that saves time—keyboard shortcut, browser trick, anything—reply to this thread. Let’s gather a handful and help each other out."
+  },
+  {
+    "subject": "Headphones day",
+    "body": "I’ll be on headphones today to concentrate. Feel free to message or wave if you need something. Happy to step away for quick questions between blocks of work."
+  },
+  {
+    "subject": "Desk plant cuttings",
+    "body": "I have a few extra plant cuttings if anyone wants to start a small desk plant. They’re easy to care for. First come, first served—swing by the kitchen shelf."
+  },
+  {
+    "subject": "Quick feedback on a paragraph",
+    "body": "I’m refining a short paragraph and would appreciate brief impressions—clarity, tone, length. Two minutes is plenty. Reply if you’re open to a glance today."
+  },
+  {
+    "subject": "Clock sync check",
+    "body": "Friendly reminder to check your device clock settings today. Small drifts can affect meeting joins and reminders. Takes a moment and keeps things running smoothly."
+  },
+  {
+    "subject": "Thanks for the quick responses",
+    "body": "Appreciate the quick replies on recent messages. It helped keep momentum and reduced back-and-forth. Thanks for being responsive and supportive—it makes a real difference day to day."
+  },
+  {
+    "subject": "Tea break at 11:00",
+    "body": "I’m putting the kettle on around 11:00. If you’d like a quick tea break and a few minutes to unwind, join in the kitchen. Nothing formal—just a breather."
+  },
+  {
+    "subject": "Fridge cleanout friday",
+    "body": "Doing a light fridge cleanout Friday after lunch. Please label anything you want to keep. If you can spare a moment, help is appreciated—team effort keeps it pleasant."
+  },
+  {
+    "subject": "Kudos on recent wins",
+    "body": "Seeing a lot of small wins this week—timely replies, tidy documentation, thoughtful comments. Nice work, everyone. Let’s keep the steady rhythm going and celebrate consistency."
+  },
+  {
+    "subject": "Shared calendar of quiet times",
+    "body": "Starting a simple calendar where people can mark quiet focus blocks. Add yours if helpful. It’s purely optional but might reduce accidental interruptions during deep work."
+  },
+  {
+    "subject": "How’s your queue today?",
+    "body": "How’s everyone’s workload feeling today—manageable, heavy, or light? If you need a quick hand or second pair of eyes, reply. Happy to trade quick reviews or brainstorm."
+  },
+  {
+    "subject": "Mug identity parade",
+    "body": "A few unclaimed mugs are on the counter. If one is yours, please adopt it before end of day. If not, we’ll wash and put them into general rotation tomorrow."
+  },
+  {
+    "subject": "Meeting notes link",
+    "body": "Meeting notes are in the shared folder. If you spot anything unclear, add a comment. Short action items with owners and dates help everyone track next steps easily."
+  },
+  {
+    "subject": "Midweek nudge",
+    "body": "We’re midweek—nice progress so far. If a small task keeps slipping, consider a fifteen-minute sprint block. Sometimes a short, timed push clears stubborn items quickly."
+  },
+  {
+    "subject": "Stretch reminder",
+    "body": "Taking two minutes to stretch shoulders and wrists. Join me if you’d like. Small breaks help posture and focus, especially on busy days. Back at the desk shortly."
+  },
+  {
+    "subject": "Labeled containers",
+    "body": "If you store food in the fridge, please label containers with your initials and date. It makes sharing space easy and keeps everything tidy for everyone."
+  },
+  {
+    "subject": "Thanks for clear summaries",
+    "body": "The crisp summaries in recent threads were super helpful. They made decisions faster and reduced confusion. Appreciated—let’s keep favoring short, clear recaps when possible."
+  },
+  {
+    "subject": "Board games after work",
+    "body": "A few folks are staying after work Thursday for light board games. All levels welcome, quick games preferred. If interested, reply and we’ll agree on a start time."
+  },
+  {
+    "subject": "Inbox zero attempt",
+    "body": "Trying a brief inbox clean today. If I miss a note from you, a quick nudge helps. Goal is to resurface anything important and simplify what’s left."
+  },
+  {
+    "subject": "Away from desk 13:00–13:30",
+    "body": "Stepping away from the desk between 13:00 and 13:30. If something needs attention, please message and I’ll circle back immediately afterward. Thanks for the understanding."
+  },
+  {
+    "subject": "Template suggestions",
+    "body": "Collecting simple templates for recurring messages—updates, requests, summaries. If you have a favorite format, please share. Short examples make it easy to reuse across teams."
+  },
+  {
+    "subject": "Kitchen cleanup courtesy",
+    "body": "A quick reminder to rinse cups and bowls after use. It keeps the sink clear and makes the shared space nicer for everyone. Thanks for the small, steady help."
+  },
+  {
+    "subject": "One thing that worked",
+    "body": "What’s one small thing that worked well for you this week? Reply with a sentence or two. Collecting ideas we can repeat when the pace gets busy."
+  },
+  {
+    "subject": "Short meeting challenge",
+    "body": "Trying a twenty-five-minute cap on a couple of chats today. If it works, we’ll note what helped. Feel free to join experiments that encourage concise, focused discussions."
+  },
+  {
+    "subject": "Monday start, all good?",
+    "body": "Quick check-in—how’s your Monday start? If anything needs a sounding board, I’m around. Sometimes a five-minute conversation clears small blockers before they become bigger."
+  },
+  {
+    "subject": "Thank you for covering",
+    "body": "Thanks to those who covered quick questions earlier. The teamwork kept things moving and saved delays. Appreciate the willingness to jump in when someone’s briefly unavailable."
+  },
+  {
+    "subject": "Quiet corner available",
+    "body": "The small meeting room is free much of the afternoon. If you need a quiet corner for focused work, feel free to use it and leave it tidy afterward."
+  },
+  {
+    "subject": "Two-minute rule",
+    "body": "Trying the two-minute rule today: if something takes less than two minutes, do it immediately. It’s surprisingly effective on small tasks. Sharing in case it helps you too."
+  },
+  {
+    "subject": "Thanks for patience",
+    "body": "Thanks for your patience while I caught up on messages. If I missed anything important, please reply here and I’ll prioritize it today. Appreciate the understanding."
+  },
+  {
+    "subject": "Afternoon fruit run",
+    "body": "Heading out for a quick fruit run after 15:00. If you’d like anything specific, reply with your pick. Keeping it simple—apples, bananas, seasonal options."
+  },
+  {
+    "subject": "Five-minute stand-around",
+    "body": "Doing a super short stand-around near the kitchen at 10:30 to align on priorities. No slides or documents—just quick words, then back to work. Join if helpful."
+  },
+  {
+    "subject": "Cable basket reset",
+    "body": "The communal cable basket will be sorted this afternoon. If you loaned one recently, please return it by 14:00 so it can be included. Labeling helps future borrowing."
+  },
+  {
+    "subject": "Need a quick review?",
+    "body": "If you’d like a fresh set of eyes on a paragraph, slide, or message, I’m available later today. Short reviews welcome—happy to help with clarity and tone."
+  },
+  {
+    "subject": "Water bottle reminder",
+    "body": "Friendly reminder to refill your water bottle and stretch. Staying hydrated and moving a bit helps energy and focus through the afternoon. Taking my own advice now."
+  },
+  {
+    "subject": "Seating shuffle",
+    "body": "If anyone wants to swap seats for a change of scenery, reply and we’ll coordinate a simple shuffle. Sometimes a small change refreshes focus without disrupting routines."
+  },
+  {
+    "subject": "Small win share",
+    "body": "Had a small win today and it improved momentum. If you’ve had one too, share briefly. Celebrating modest progress keeps morale steady during busy stretches."
+  },
+  {
+    "subject": "Mic check",
+    "body": "Before your next call, a quick mic and background check helps everyone. It’s a tiny step that keeps meetings smoother and avoids repeat questions. Sharing as a friendly tip."
+  },
+  {
+    "subject": "Leftovers in the fridge",
+    "body": "There are labeled leftovers in the fridge from today’s lunch. Help yourself while they last. Please leave the space tidy and re-cover any containers after serving."
+  },
+  {
+    "subject": "What’s your favorite shortcut?",
+    "body": "What’s one keyboard or workflow shortcut you rely on daily? Share it in a sentence or two. Let’s collect a quick list everyone can try this week."
+  },
+  {
+    "subject": "Stepping out for a call",
+    "body": "I’ll be stepping out for a quiet call at 15:30. If you need anything quickly, please message; I’ll respond as soon as I’m back at the desk."
+  },
+  {
+    "subject": "Shared shelf refresh",
+    "body": "Refreshing the shared shelf today. If you have items to donate—markers, sticky notes, clips—leave them in the bin by 14:00. We’ll sort and label for easy use."
+  },
+  {
+    "subject": "Thanks for clear calendars",
+    "body": "Thanks to everyone who keeps calendars updated. It makes scheduling much smoother and avoids unnecessary reschedules. Small habits like that help the whole team."
+  },
+  {
+    "subject": "Window open for fresh air",
+    "body": "I’ll open a window for a short time this afternoon to bring in fresh air. If it’s drafty near you, let me know and I’ll adjust quickly."
+  },
+  {
+    "subject": "Mini skill swap",
+    "body": "Interested in a ten-minute skill swap later this week? Could be anything—note-taking tips, presentation pacing, file organization. Reply with ideas and we’ll pick a time."
+  },
+  {
+    "subject": "Quiet zone courtesy",
+    "body": "If you’re using the quiet area, please keep phone calls brief or step outside. It helps everyone focus. Thanks for helping maintain a calm space when needed."
+  },
+  {
+    "subject": "Cookie break at 15:00",
+    "body": "There will be cookies near the kitchen at 15:00. Stop by for a quick treat and hello. First come, first served—save a few for late meetings if you can."
+  },
+  {
+    "subject": "End-of-day checklist",
+    "body": "Doing a short end-of-day checklist—two quick follow-ups and tomorrow’s top three. If that helps you too, join me in wrapping up cleanly before signing off."
+  },
+  {
+    "subject": "Subject lines that help",
+    "body": "Using specific subject lines has reduced back-and-forth. If helpful, consider adding a verb and a short topic, like “Review: Slide Two” or “Confirm: Tuesday timing.”"
+  },
+  {
+    "subject": "Casual breakfast drop-in",
+    "body": "A few people will be in early tomorrow for a casual breakfast around 9:15. If you’re around, join for a quick bite and conversation before the day gets busy."
+  },
+  {
+    "subject": "Resource borrowing note",
+    "body": "Borrowed a marker set from the cabinet and will return it by 16:00. If you need it sooner, ping me and I’ll bring it over right away."
+  },
+  {
+    "subject": "Headset battery low",
+    "body": "My headset battery is low and charging for a short while. If I miss a call, I’ll return it promptly. Thanks for the patience during a quick top-up."
+  },
+  {
+    "subject": "Light edit offer",
+    "body": "If you’re polishing a paragraph or subject line and want a second look, I can help after 14:00. Short edits only—aiming for clarity and a friendly tone."
+  },
+  {
+    "subject": "Door soft-close",
+    "body": "Please close meeting room doors gently. The soft-close helps, but an extra mindful nudge keeps noise down. Thanks for keeping shared spaces comfortable for everyone."
+  },
+  {
+    "subject": "Water and stretch block",
+    "body": "Setting a timer every ninety minutes today to stretch and sip water. Feel free to join. Tiny habits help energy levels without interrupting the day too much."
+  },
+  {
+    "subject": "Whiteboard reset",
+    "body": "If you use the whiteboard, a quick photo before erasing helps others. I’ll wipe it at 17:00 today so it’s clear for the morning. Thanks for sharing space."
+  },
+  {
+    "subject": "Mid-afternoon cheer",
+    "body": "If you need a small boost, we’re taking a cheerful five minutes near the kitchen at 15:30. No obligations—just a smile, a stretch, and back to it."
+  },
+  {
+    "subject": "Café run at 11:30",
+    "body": "Doing a quick café run at 11:30. If you want something, reply with your order by 11:15. Keeping it simple—coffee, tea, or sparkling water."
+  },
+  {
+    "subject": "Quiet heads-up",
+    "body": "I’ll be reviewing a long document around 16:00 and may be less responsive for thirty minutes. Send a message if something is urgent—I’ll keep an eye out."
+  },
+  {
+    "subject": "Thanks for labeling",
+    "body": "Thanks to everyone labeling shared items. It makes borrowing easier and returning faster. Small habits like these save time for all of us every week."
+  },
+  {
+    "subject": "Friday afternoon stretch",
+    "body": "Planning a short stretch session Friday at 15:00 in the open area. No special clothing needed. Just five minutes to loosen up before the finish line."
+  },
+  {
+    "subject": "Pen rescue",
+    "body": "If you’re missing a favorite pen, check the cup by the printer. A few orphans turned up there. Please reclaim yours, or we’ll move them to general use tomorrow."
+  },
+  {
+    "subject": "Quiet chat offer",
+    "body": "If something’s blocking progress and you’d like a quick, quiet chat, I’ll be free after 14:30. Ten minutes may be enough to unstick the next step."
+  },
+  {
+    "subject": "Meeting room timer",
+    "body": "Using a simple timer for my next meeting to help end on time. If you’d like one for yours, there’s a couple in the drawer near the screen."
+  },
+  {
+    "subject": "Good news bell",
+    "body": "If you’ve got good news—small or big—share a line here. Celebrating together keeps energy up and reminds us of steady progress behind the scenes."
+  },
+  {
+    "subject": "Chair posture check",
+    "body": "Quick posture check—adjust chair height, rest feet flat, shoulders relaxed. Tiny adjustments reduce fatigue. Sharing as a helpful nudge for anyone deep in work."
+  },
+  {
+    "subject": "Printer queue courtesy",
+    "body": "If the printer queue grows, a quick check for duplicates helps. Please pick up your pages soon after printing. It keeps surfaces clear and documents private."
+  },
+  {
+    "subject": "Scent-free zone reminder",
+    "body": "Friendly reminder to keep strong scents minimal in shared areas. It helps those with sensitivities and keeps the space comfortable for everyone throughout the day."
+  },
+  {
+    "subject": "Peer review window",
+    "body": "I have a short window between 15:00 and 15:30 for peer reviews. If a quick look would help, send over the draft. Happy to help tighten wording."
+  },
+  {
+    "subject": "Photo of the week",
+    "body": "Starting a lighthearted “photo of the week” thread—nature, pets, city scenes. Reply with one you like and a line of context. Keeps things human and cheerful."
+  },
+  {
+    "subject": "Noise-canceling tip",
+    "body": "If background noise creeps in, turning on noise-canceling for a bit helps. Sharing in case it improves focus today. I’ll be trying it through the afternoon."
+  },
+  {
+    "subject": "Friday coffee walk",
+    "body": "Taking a short walk to grab coffee Friday at 10:45. Join for a quick chat and stretch. Back within twenty minutes to continue the day refreshed."
+  },
+  {
+    "subject": "Shared charger location",
+    "body": "There’s a shared phone charger in the top drawer by the printer. Please return it after use so others can find it easily. Label helps if you borrow it."
+  },
+  {
+    "subject": "Two tasks before lunch",
+    "body": "Picking two small tasks to finish before lunch for a sense of momentum. If that helps you too, choose yours and share progress if you’d like accountability."
+  },
+  {
+    "subject": "Window seat shade",
+    "body": "If the sun is strong by the windows, I’ll lower the shade for a bit. If you prefer it up, let me know and we’ll find a middle ground."
+  },
+  {
+    "subject": "Label maker available",
+    "body": "There’s a label maker on the shelf for organizing cables or folders. Feel free to use it and return it to the same spot when finished. Supplies nearby."
+  },
+  {
+    "subject": "Midday stretch circle",
+    "body": "Quick stretch circle near the kitchen at 12:50. Simple shoulder and neck moves for five minutes. Join if you want a reset before the afternoon push."
+  },
+  {
+    "subject": "Calendar buffer tip",
+    "body": "I’m adding five-minute buffers between calls today. It helps with notes and reduces rushing. Sharing in case it’s useful for your schedule as well."
+  },
+  {
+    "subject": "Thanks for prompt reviews",
+    "body": "Appreciate the prompt reviews this morning. They kept things moving and reduced second-guessing. Thank you for the quick reads and helpful comments."
+  },
+  {
+    "subject": "Tea tasting mini-session",
+    "body": "Bringing a few tea samples to the kitchen at 16:00. If you enjoy trying new flavors, stop by for a small cup and quick chat. All welcome."
+  },
+  {
+    "subject": "Sticky note refill",
+    "body": "Refilled the sticky note stack near the printer. If you need a pad, there’s a fresh set available. Please leave a few for others—more in the cabinet."
+  },
+  {
+    "subject": "Small blockers welcome",
+    "body": "If you have a small blocker that’s easy to talk through, I’m around after 13:30. Sometimes a quick chat clears the path faster than a long thread."
+  },
+  {
+    "subject": "Shared sink etiquette",
+    "body": "Please rinse and stack dishes neatly after use. It keeps the kitchen calm and makes it easy for the next person. Thanks for the steady teamwork."
+  },
+  {
+    "subject": "Timer for focus sprints",
+    "body": "I’m running a twenty-minute focus sprint at 14:00. If you want to join, start a timer and let’s compare quick wins afterward. Simple and surprisingly effective."
+  },
+  {
+    "subject": "Headphones off at 12:00",
+    "body": "Headphones will be off around 12:00 if you want to say hello or ask a quick question in person. Happy to catch up before lunch."
+  },
+  {
+    "subject": "Thanks for quiet voices",
+    "body": "Appreciate everyone keeping voices low near the open area during calls today. It made it easier to focus. Thanks for being considerate—it really helps."
+  },
+  {
+    "subject": "Umbrella share",
+    "body": "There’s an extra umbrella by the door if anyone gets caught in the rain. Please return it afterward so the next person can borrow it too."
+  },
+  {
+    "subject": "Photo walk at lunch",
+    "body": "Taking a short photo walk during lunch—nothing fancy, phones welcome. If you’d like to join for a fresh perspective and fresh air, meet by the lobby at 12:35."
+  },
+  {
+    "subject": "One-line summary habit",
+    "body": "Trying one-line summaries at the top of longer messages. It’s helped clarity. Sharing in case it’s useful—feel free to try and see if it streamlines replies."
+  },
+  {
+    "subject": "Quiet corner offer",
+    "body": "If you need a quiet corner for a sensitive conversation, I can help find space. Reply with a preferred time and we’ll keep it comfortable and discreet."
+  },
+  {
+    "subject": "Reusable cup swap",
+    "body": "If you’ve misplaced a reusable cup, check the shelf near the sink. A few extras are there. Take one and please return if you discover yours later."
+  },
+  {
+    "subject": "Checklist template",
+    "body": "Made a simple checklist template for recurring tasks. If it’s helpful, copy and tweak for your needs. Sharing because it reduced small mistakes for me."
+  },
+  {
+    "subject": "Scented cleaners note",
+    "body": "If you’re sensitive to scented cleaners, let me know. I’ll choose milder options for the kitchen wipe-down this afternoon so it’s comfortable for everyone."
+  },
+  {
+    "subject": "Song for friday wrap",
+    "body": "Suggest one upbeat, work-friendly song for Friday wrap-up. We’ll keep the list short and cheerful. Add a note on why you picked it if you’d like."
+  },
+  {
+    "subject": "Heads-up: draft at 17:00",
+    "body": "I’ll share a draft around 17:00 for quick eyes. No rush—skim when convenient. A sentence or two of reaction is perfect if something stands out."
+  },
+  {
+    "subject": "Marker cap reminder",
+    "body": "Please cap whiteboard markers after use so they last longer. Small habit, big savings. There’s a fresh pack in the drawer if any are dried out."
+  },
+  {
+    "subject": "Breathing minute",
+    "body": "Taking sixty seconds for a slow breathing reset before the next block of work. Join if you’d like. Short pauses help focus and ease tight shoulders."
+  },
+  {
+    "subject": "Shortcut cheat sheet",
+    "body": "Drafting a tiny cheat sheet of common shortcuts we use. If you have a favorite time-saver, reply with a quick description so we can include it."
+  },
+  {
+    "subject": "Reply-all consideration",
+    "body": "A quick reminder to use reply-all only when necessary. It keeps inboxes lighter for everyone. Appreciate the extra thought—makes communication cleaner."
+  },
+  {
+    "subject": "Compliment thread",
+    "body": "If someone helped you this week, drop a short compliment here. Recognition doesn’t need to be big to matter. Let’s keep encouragement visible and simple."
+  },
+  {
+    "subject": "Shared drawer reset",
+    "body": "I’ll sort the shared drawer at 16:30. If you have items to include or reclaim, please swing by before then. Labeling will help everyone find things faster."
+  },
+  {
+    "subject": "Second pair of eyes",
+    "body": "If you’re sending an important message and want a quick second look, I’m available after 15:00. A fresh perspective often catches small clarity issues."
+  },
+  {
+    "subject": "Desk swap interest?",
+    "body": "Anyone interested in a temporary desk swap for a week? Sometimes a new view sparks fresh energy. Reply if curious and we’ll coordinate simple exchanges."
+  },
+  {
+    "subject": "Shared dishes reminder",
+    "body": "If you borrow shared dishes, please wash and return them the same day. It keeps the kitchen flowing for everyone. Thanks for the help keeping things neat."
+  },
+  {
+    "subject": "Two wins, one focus",
+    "body": "Sharing two small wins and one focus for tomorrow helped me stay on track. If you try it, reply with yours—keeps goals simple and visible."
+  },
+  {
+    "subject": "Door hold offer",
+    "body": "If you’re carrying something heavy this afternoon, message and I’ll help with doors or a quick hand. Happy to assist for a minute when needed."
+  },
+  {
+    "subject": "Puzzle break",
+    "body": "There’s a small puzzle on the kitchen table for quick breaks. Add a piece if you pass by. It’s relaxing and takes just a minute."
+  },
+  {
+    "subject": "Headphone splitter",
+    "body": "There’s a headphone splitter available in the top drawer if you need to listen in together. Please return it afterward so others can find it easily."
+  },
+  {
+    "subject": "Check-in on energy",
+    "body": "If your energy’s low today, you’re not alone. A quick walk or glass of water helps me. Reply if you want a brief reset partner this afternoon."
+  },
+  {
+    "subject": "Labeling cables",
+    "body": "I’ll label a few stray cables this afternoon. If any are yours, let me know so we can tag them properly. Helps everyone find the right connector quickly."
+  },
+  {
+    "subject": "Five-minute file cleanup",
+    "body": "Doing a five-minute file cleanup before end of day. If you want to join, pick one folder and archive duplicates. Small routine, big clarity over time."
+  },
+  {
+    "subject": "Window plant watering",
+    "body": "I’ll water the window plants at 17:00. If you have any care tips or want to take a turn next week, reply. It’s an easy, pleasant task."
+  },
+  {
+    "subject": "Phone on silent",
+    "body": "Switching my phone to silent during the next focus block. If you need me, message and I’ll respond as soon as I wrap up. Thanks for understanding."
+  },
+  {
+    "subject": "Friday photo share",
+    "body": "Share a photo from your week—nature, pets, something that made you smile. One image and one line of context keeps it light and fun."
+  },
+  {
+    "subject": "Quick start timers",
+    "body": "I put a couple of quick-start timers on the shelf. Handy for short meetings or sprints. Please return them to the same spot after use."
+  },
+  {
+    "subject": "Thanks for the nudge",
+    "body": "Thanks to those who sent gentle nudges on pending items. It helped keep things on track without stress. Appreciate the considerate reminders."
+  },
+  {
+    "subject": "Lunch walk option",
+    "body": "If you’d like a brisk ten-minute walk after lunch, meet by the lobby at 13:10. Back by 13:25. Good way to reset before the afternoon."
+  },
+  {
+    "subject": "Shared supplies count",
+    "body": "I’ll take a quick count of shared supplies later. If you notice anything running low—notes, pens, clips—reply and I’ll add it to the list."
+  },
+  {
+    "subject": "Sounding board offer",
+    "body": "If you’re weighing two options and want a neutral sounding board, I’m free after 15:00. Ten minutes might help clarify the next step."
+  },
+  {
+    "subject": "Light dimmer adjustment",
+    "body": "I’ll lower the lights slightly in the open area around 16:00 for screen comfort. If you need it brighter near you, let me know and I’ll adjust."
+  },
+  {
+    "subject": "Top three for tomorrow",
+    "body": "Writing down a top three for tomorrow before signing off. It keeps the morning clear. If you try it, share yours for gentle accountability."
+  },
+  {
+    "subject": "Clean desk minute",
+    "body": "Taking one minute to clear my desk surface. If you’re doing the same, share a before-and-after tip that helps you keep clutter away."
+  },
+  {
+    "subject": "Midweek treat",
+    "body": "Bringing a small midweek treat to the kitchen around 15:00. Help yourself while it lasts. Please leave the area tidy for the next person."
+  },
+  {
+    "subject": "One-sentence update",
+    "body": "Trying one-sentence updates in ongoing threads to keep momentum. If you find it helpful, join in. Short summaries keep everyone aligned without extra meetings."
+  },
+  {
+    "subject": "Window vent reminder",
+    "body": "If the room feels stuffy, cracking a window for five minutes can help. Please check nearby colleagues are comfortable before adjusting. Thanks for the courtesy."
+  },
+  {
+    "subject": "Grateful for team help",
+    "body": "Grateful for the small acts of help lately—answering quick questions, sharing notes, offering time. Those gestures add up. Thank you for being thoughtful teammates."
+  },
+  {
+    "subject": "Coffee beans refill",
+    "body": "Refilled the coffee beans this morning. If you notice we’re running low, a quick note here helps. Thanks for keeping the kitchen humming smoothly."
+  },
+  {
+    "subject": "Recycling reminder",
+    "body": "Please flatten cardboard before placing it in recycling. It saves space and keeps the area neat. Thanks for helping the shared spaces work well."
+  },
+  {
+    "subject": "Share a tip that helped",
+    "body": "What’s one tip that helped you stay focused today? Reply with a line or two. Collecting a small list for anyone who needs a nudge."
+  },
+  {
+    "subject": "Back soon",
+    "body": "Stepping away to handle a quick errand and back by 15:20. If you need anything urgent, message and I’ll pick it up immediately when I return."
+  },
+  {
+    "subject": "Fruit bowl refill",
+    "body": "The fruit bowl is refilled—apples and pears today. Grab one for a quick snack. Please leave peels and cores in the compost bin by the sink."
+  },
+  {
+    "subject": "Finish line push",
+    "body": "Setting a short timer for a finish-line push on some lingering tasks. If you’d like to join, pick one item and we’ll compare quick wins afterward."
+  }
+]
